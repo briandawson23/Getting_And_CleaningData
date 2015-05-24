@@ -15,5 +15,5 @@ In order to run this program, please follow the instructions below.
 
 4. Install data.table package if not already installed.  Command is install.package("data.table").
 
-5. Run the program by typing in 'execute_analysis()'.  This will create two files 1) merged_tidy_data.txt and 2) tidyData_calculated.txt
+5. Run the program by typing in 'execute_analysis()'.  This will create two files 1) tidyData_merged.txt and 2) tidyData_calculated.txt
 
